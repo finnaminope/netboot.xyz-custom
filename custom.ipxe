@@ -4,8 +4,8 @@
 ###
 
 :start
-echo Hello world!
-sleep 10
+echo Hello world! This Menu Will Close In 2 Seconds...
+sleep 2
 goto custom_exit
 
 :custom_exit
